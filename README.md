@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravindu</h1>
 <h3 align="center">Business Analytics undergraduate</h3>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravinduflash&label=Profile%20views&color=0e75b6&style=flat" alt="ravinduflash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravinduflash" alt="ravinduflash" /></a> </p>
@@ -18,7 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ravindu-dulshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravindu-dulshan/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ravindu-dulshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravindu-dulshan/" height="30" width="40" /></a><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ravindu-dulshan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/ravindu-dulshan?trk=profile-badge">Ravindu Dulshan</a></div>
+              
 <a href="https://www.hackerrank.com/dulshanravindu51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="e19494" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/ravindudulshan" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" alt="https://www.kaggle.com/ravindudulshan" height="30" width="40" /></a>
 </p>
