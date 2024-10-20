@@ -20,6 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ravindu-dulshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravindu-dulshan/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dulshanravindu51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="e19494" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ravindudulshan" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" alt="https://www.kaggle.com/ravindudulshan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
