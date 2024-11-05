@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravinduflash" alt="ravinduflash" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- 🔭 I’m currently working on [Data-mining--predictive-analysis-bank-marketing](https://github.com/Ravinduflash/Data-mining--predictive-analysis-bank-marketing.git)
+- 🔭 I’m currently working on [Smart Agriculture Business Application with Multi-Crop Support](https://github.com/Ravinduflash/Smart-Agriculture-Business-Application-with-Multi-Crop-Support.git)
 
 - 🌱 I’m currently learning **Data Science**
 
